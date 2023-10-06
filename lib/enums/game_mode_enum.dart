@@ -1,0 +1,4 @@
+enum GameModeEnum{
+  singlePlayerGame,
+  teamBasedGame,
+}
